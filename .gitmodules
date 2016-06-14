@@ -1,0 +1,7 @@
+[submodule "Onwo"]
+	path = Onwo
+	url = https://github.com/j0no89/Onwo
+	branch = Nomad
+[submodule "NDepend.Path"]
+	path = NDepend.Path
+	url = https://github.com/psmacchia/NDepend.Path
